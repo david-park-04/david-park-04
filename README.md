@@ -14,5 +14,4 @@
  ~~~^^~~~~~~~^^^^~~~~~^^~~~~~~~^^^^~~~^^~   
 ```
 
-<p>Interested in full-stack, productivity tools, and graphics.</p>
 
